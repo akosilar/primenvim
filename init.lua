@@ -1,0 +1,3 @@
+require("akosilar")
+print("hello")
+
